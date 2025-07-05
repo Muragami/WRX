@@ -1,2 +1,6 @@
 # WRX
-W|ren R|eady eX|excution engine: Wren powered apps everywhere.
+W|ren R|eady eX|excution engine: Wren-powered apps everywhere.
+
+Wren: It's the language — a classy, little scripting language with good, portable performance.
+Ready: The style is a reduced, ready-to-use minimal interface to build your app upon.
+eXecution engine: As this is abstract, one of many engines that can host the app. Pixi.js for the web, and Love2d for desktop to start.
